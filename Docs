@@ -3,12 +3,22 @@ Development Environment Setup
 
 SQL  2012:
 http://www.microsoft.com/en-us/download/details.aspx?id=29062
+
 Visual Studio 2013 :
 http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx
 
-Book :
+Book(150 Hrs) : Professional ASP.NET Design Patterns
+http://www.it-ebooks.info/book/1292/
 
-http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-Design-Patterns.productCd-0470292784.html
-
-OOPS Concepts :
+OOPS Concepts(5hrs) :
 http://www.codeproject.com/Articles/838365/Basic-Csharp-OOP-Concept
+
+Video Tutorials(100 Hrs) :
+1. http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners
+2. http://www.microsoftvirtualacademy.com/training-courses/database-fundamentals
+3. http://csharp-video-tutorials.blogspot.co.uk/p/free-c-video-tutorial-for-beginners.html
+4. http://csharp-video-tutorials.blogspot.com/p/free-aspnet-video-tutorial.html
+5. http://csharp-video-tutorials.blogspot.com/p/aspnet-mvc-tutorial-for-beginners.html
+6. http://csharp-video-tutorials.blogspot.com/p/wcf-tutorial.html
+
+Project : Online Shopping Application (50 Hrs)
